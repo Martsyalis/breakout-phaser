@@ -40,10 +40,10 @@ function create() {
 
   bricks = this.physics.add.staticGroup();
 
-  for (let i = 0; i < 7; i++) {
+  for (let i = 0; i < 6; i++) {
     for (let j = 0; j < 5; j++) {
     brick = bricks
-        .create(150 + j * 150, 50+ i * 50, "brick")
+        .create(150 + j * 150, 120 + i * 50, "brick")
         brick.displayWidth = 150;
         brick.displayHeight = 50;    
     }
