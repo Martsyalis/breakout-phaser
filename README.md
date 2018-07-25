@@ -1,10 +1,10 @@
-# Phaser 3 Webpack Project Template
+# Breakout game made with Phaser 3
 
-A Phaser 3 Project Template
+A simple breakout game made using Arcade Physics, Phaser and Webpack 
 
 ### Requirements
 
-We need [Node.js](https://nodejs.org) to install and run scripts.
+You need to install and run scripts.
 
 ## Install and run
 
